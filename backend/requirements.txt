@@ -1,0 +1,11 @@
+flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+firebase-admin==6.4.0
+azure-cosmos==4.5.1
+pydantic==2.6.3
+python-jose==3.3.0
+requests==2.31.0
+sendgrid==6.11.0
+azure-monitor-opentelemetry>=1.0.0
+opentelemetry-instrumentation-flask>=0.41b0 
