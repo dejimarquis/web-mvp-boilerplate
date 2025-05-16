@@ -53,8 +53,7 @@ This repository contains a full-stack boilerplate with a Next.js frontend and Fl
 4. Create a `.env` file with your configuration
 5. Start the development server:
    ```bash
-   ./start.sh
-   # Or on Windows: python app.py
+   python app.py
    ```
 6. The API will be available at http://localhost:5000/api
 
